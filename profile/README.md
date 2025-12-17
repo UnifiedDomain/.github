@@ -6,7 +6,6 @@ UnifiedDomain is an open-source platform for centralized **identity, authenticat
 
 It is designed as a **domain-level trust control plane**, not a traditional directory service.
 
----
 
 ## What UnifiedDomain is
 
@@ -22,7 +21,6 @@ UnifiedDomain provides a unified authority for:
 
 UnifiedDomain is **Linux-first**, **on-prem capable**, and **cloud-optional** by design.
 
----
 
 ## What UnifiedDomain is not
 
@@ -35,7 +33,6 @@ UnifiedDomain is **not**:
 
 Where possible, UnifiedDomain integrates with existing tools instead of re-implementing them.
 
----
 
 ## Core design principles
 
@@ -46,7 +43,6 @@ Where possible, UnifiedDomain integrates with existing tools instead of re-imple
 - **Offline and air-gapped capable**
 - **Auditable by default**
 
----
 
 ## Key capabilities (planned and in progress)
 
@@ -63,7 +59,6 @@ Where possible, UnifiedDomain integrates with existing tools instead of re-imple
 - DNS-based service discovery
 - Comprehensive audit and security logging
 
----
 
 ## Target environments
 
@@ -76,7 +71,6 @@ UnifiedDomain is built for:
 - Enterprises reducing dependence on proprietary identity systems
 - MSPs and multi-tenant environments
 
----
 
 ## Project status
 
@@ -90,7 +84,6 @@ The initial focus is on:
 
 Stability, clarity, and correctness take priority over feature count.
 
----
 
 ## Contributing
 
@@ -105,7 +98,6 @@ If you are interested in:
 
 …you will feel at home here.
 
----
 
 ## Philosophy
 
